@@ -4,8 +4,8 @@
 
 ### Some Important notes:
 
-1. Please know that I use python venv while doing this. There might be differences with your installed library. Although this project is straighforward, it should not cause much issue.
-2. This is my own requirements.txt: requirements.txt
+- Please know that I use python venv while doing this. There might be differences with your installed library. Although this project is straighforward, it should not cause much issue.
+- This is my own requirements.txt: requirements.txt
 
 ### How to install: 
 ```
